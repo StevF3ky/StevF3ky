@@ -2,7 +2,7 @@
   <img src="assets/testing (1).png" alt="StevF3ky Banner" width="100%">
 </div>
 
-## Hi there 👋
+## Hi there 👋 my name Steven you can call me Stev or freaky or StevFr3ky what ever you like.
 
 <!--
 **StevF3ky/StevF3ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
